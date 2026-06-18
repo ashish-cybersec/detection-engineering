@@ -9,7 +9,7 @@ Typically, ransomware encrypts many files in a short amount of time, causing a s
 ## MITRE ATT&CK
 
 * Technique ID: T1486
-The technique is called Data Encrypted for Impact.
+* Technique Name: Data Encrypted for Impact
 * Tactic: Impact
 
 ## Detection Logic
